@@ -12,6 +12,7 @@ Voucher will be added only if cart products total are higher than minimum purhas
 example URL: 
 
 http:://myshop.com/index.php?voucher=MYVOUCHER
+
 http:://myshop.com/es/ipods?voucher=MYVOUCHER
 
 Any fix you find or any improvement will be wellcomed and added.
